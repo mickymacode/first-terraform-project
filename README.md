@@ -1,6 +1,6 @@
 # first-terraform-project
 
-更改这个aws vpc，instance，subnet等等的文件，实现modules化
+change the infrastructure implementation in the main branch, use modules
 
 #everytime change the module, execute terraform init first
 
